@@ -1,0 +1,14 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+#page-numbers {
+  list-style: none;
+  display: flex;
+}
+li {
+  padding: 12px;
+  border: 1px solid;
+  margin: 1px;
+  cursor: pointer;
+}
